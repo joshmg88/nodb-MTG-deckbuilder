@@ -1,0 +1,14 @@
+.favorites{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    
+}
+
